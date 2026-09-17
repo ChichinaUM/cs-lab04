@@ -5,6 +5,8 @@ public class main
 		/////////////////////////
 		///  А + В
 		
+		/// Правки, внесенные Бобом - AA * BB
+		
 	    Mobile_device md = new Mobile_device("Windows 11", "Aple", "11 inch", "Gray", 11400);
 	    System.out.println("Значение полей после инициализации объекта: \n"); 
 	    md.printInform();
