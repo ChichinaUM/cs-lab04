@@ -15,6 +15,8 @@ public class main
 		
 		/// Печать минимума, Боб
 		
+		/// Изменение типа переменных на double
+		
 	    Mobile_device md = new Mobile_device("Windows 11", "Aple", "11 inch", "Gray", 11400);
 	    System.out.println("Значение полей после инициализации объекта: \n"); 
 	    md.printInform();
