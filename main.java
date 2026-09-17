@@ -7,7 +7,7 @@ public class main
 		
 		/// Правки, внесенные Бобом - AA * BB
 		
-		/// А эту правку внесла Алиса - ООО / РРР
+		/// А эту правку внесла Алиса - ООО / РРР v
 		
 	    Mobile_device md = new Mobile_device("Windows 11", "Aple", "11 inch", "Gray", 11400);
 	    System.out.println("Значение полей после инициализации объекта: \n"); 
